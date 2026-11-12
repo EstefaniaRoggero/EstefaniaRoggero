@@ -1,94 +1,77 @@
 
-# ¡Hola! Soy Estefanía Roggero 👋
+# Estefanía Roggero
 
-### 💻 Desarrolladora de Software Jr. | Full Stack | UX/UI
+**Desarrolladora de Software Jr. | Desarrollo Web Full Stack**
 
-Soy estudiante avanzada de la **Tecnicatura Superior en Desarrollo de Software** del Instituto Superior Villa del Rosario, Córdoba, Argentina.
+Villa del Rosario, Córdoba, Argentina
 
-Me interesa desarrollar soluciones tecnológicas que respondan a necesidades reales, combinando programación, diseño de interfaces y automatización de procesos.
-
-Mi experiencia como docente de Música e Informática también me permitió desarrollar habilidades de comunicación, creatividad, organización y trabajo colaborativo.
+[LinkedIn](https://www.linkedin.com/in/estefania-roggero-a612743a6/) · [Repositorios](https://github.com/EstefaniaRoggero?tab=repositories)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Sobre mí
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Soy estudiante avanzada de la Tecnicatura Superior en Desarrollo de Software del Instituto Superior Villa del Rosario.
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+Durante mi formación trabajé en proyectos de desarrollo web, aplicaciones de gestión y diseño de interfaces, participando en distintas etapas del proceso: análisis de requisitos, diseño, programación, integración y pruebas.
 
-### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+También soy docente de Música e Informática, una experiencia que complementa mi formación técnica y fortalece mis habilidades de comunicación, organización y trabajo en equipo.
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Actualmente busco continuar desarrollándome profesionalmente en el área de software, especialmente en aplicaciones web y sistemas de gestión.
 
----
+## Tecnologías
 
-## 🚀 Proyectos destacados
+| Área | Tecnologías |
+|---|---|
+| Frontend | JavaScript, React, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, Python, Flask, C# |
+| Bases de datos | PostgreSQL, SQL Server, SQLite |
+| Herramientas | Git, GitHub, Visual Studio Code |
+| Otras competencias | APIs REST, UX/UI, pruebas de software |
 
-### 🐾 Refugio Conectado
-Plataforma web para la gestión de refugios de animales y adopciones responsables.
+## Proyectos
 
-Incluye administración de usuarios, catálogo de mascotas, solicitudes de adopción y un sistema de recomendaciones automatizadas.
+### Refugio Conectado
+**Sistema web de gestión de refugios y adopciones**
 
-**Tecnologías:** React, JavaScript, backend y base de datos relacional.
+Proyecto académico desarrollado en equipo para gestionar mascotas, usuarios y solicitudes de adopción.
 
-🔗 [Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
+Incluye un módulo de recomendación basado en reglas, diseñado para relacionar las preferencias de los adoptantes con las características de las mascotas disponibles.
 
-### 🤖 Recomendador automatizado de mascotas
-Módulo desarrollado para Refugio Conectado que utiliza reglas de compatibilidad para sugerir mascotas según las preferencias de las personas interesadas en adoptar.
+**Tecnologías:** React, JavaScript y servicios backend.
 
-**Conceptos aplicados:** automatización, lógica de programación, reglas de negocio y consultas a bases de datos.
+[Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
 
-🔗 [Ver proyecto principal](https://github.com/EstefaniaRoggero/Refugio_Conectado)
+### CuidApp
+**Sistema de gestión médica ambulatoria**
 
-### 🏥 CuidApp
-Sistema web de gestión médica ambulatoria.
+Aplicación web para administrar pacientes, profesionales, turnos, historias clínicas, estudios y facturación.
 
-Incluye gestión de pacientes, médicos, turnos, historias clínicas, estudios, facturación y paneles de control.
+El sistema utiliza una API REST desarrollada con Flask, un frontend en React y autenticación mediante JWT.
 
-**Tecnologías:** React, Python, Flask, SQLite, SQLAlchemy y JWT.
+**Tecnologías:** React, Python, Flask, SQLAlchemy y SQLite.
 
-### 🛒 Kiosco Delatefa
-Sistema de gestión comercial y punto de venta (POS), desarrollado para un negocio real.
+### Kiosco Delatefa
+**Sistema de gestión comercial y punto de venta**
 
-Incluye módulos de productos, stock, ventas, caja y reportes.
+Proyecto personal en desarrollo para administrar las operaciones de un comercio.
 
-**Tecnologías:** React, Tailwind CSS, Node.js, Express y PostgreSQL.
+Contempla gestión de productos, inventario, ventas, movimientos de caja y reportes. Se desarrolla mediante una arquitectura modular con frontend, API y base de datos relacional.
+
+**Tecnologías:** React, Node.js, Express, Tailwind CSS y PostgreSQL.
 
 **Estado:** en desarrollo.
 
----
+## Formación
 
-## 🎯 Intereses profesionales
+**Tecnicatura Superior en Desarrollo de Software**  
+Instituto Superior Villa del Rosario | 2024–2026
 
-- Desarrollo de aplicaciones web Full Stack.
-- Diseño de interfaces y experiencia de usuario (UX/UI).
-- Automatización de procesos.
-- Bases de datos y APIs REST.
-- Desarrollo de soluciones tecnológicas aplicadas a necesidades reales.
+**Profesorado de Música**  
+Formación docente de nivel superior.
 
----
+## Contacto
 
-## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/estefania-roggero-a612743a6/)
+- [GitHub](https://github.com/EstefaniaRoggero)
 
-💼 [LinkedIn](https://www.linkedin.com/in/estefania-roggero-a612743a6/)
-
-💻 [GitHub](https://github.com/EstefaniaRoggero)
-
-📍 Villa del Rosario, Córdoba, Argentina
