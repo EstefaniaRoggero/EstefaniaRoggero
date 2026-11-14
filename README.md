@@ -1,7 +1,7 @@
 
 # Estefanía Roggero
 
-**Desarrolladora de Software Jr. | Desarrollo Web Full Stack**
+**Desarrolladora de Software Jr.**
 
 Villa del Rosario, Córdoba, Argentina
 
