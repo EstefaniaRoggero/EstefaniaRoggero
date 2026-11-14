@@ -1,74 +1,156 @@
 
+<div align="center">
+
 # Estefanía Roggero
 
-**Desarrolladora de Software Jr.**
+### Desarrolladora de Software Junior
 
-Villa del Rosario, Córdoba, Argentina
+**Transformo necesidades reales en soluciones digitales.**
 
-[LinkedIn](https://www.linkedin.com/in/estefania-roggero-a612743a6/) · [Repositorios](https://github.com/EstefaniaRoggero?tab=repositories)
+Desarrollo aplicaciones web, soluciones de gestión y automatizaciones, combinando tecnología, análisis de procesos y diseño centrado en las personas.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-332E34?style=for-the-badge&logo=vercel&logoColor=white)](https://roggero-estefania.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B78396?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefania-roggero-a612743a6/)
+[![Email](https://img.shields.io/badge/CONTACTO-655660?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roggeroestefania@gmail.com)
+
+</div>
 
 ---
 
 ## Sobre mí
 
-Soy estudiante avanzada de la Tecnicatura Superior en Desarrollo de Software del Instituto Superior Villa del Rosario.
+Soy estudiante de la **Tecnicatura Superior en Desarrollo de Software** del Instituto Superior Villa del Rosario (ISVR).
 
-Durante mi formación trabajé en proyectos de desarrollo web, aplicaciones de gestión y diseño de interfaces, participando en distintas etapas del proceso: análisis de requisitos, diseño, programación, integración y pruebas.
+Me interesa desarrollar soluciones tecnológicas que respondan a problemas concretos, desde la identificación de necesidades hasta el diseño y la implementación.
 
-También soy docente de Música e Informática, una experiencia que complementa mi formación técnica y fortalece mis habilidades de comunicación, organización y trabajo en equipo.
+Tengo experiencia práctica en desarrollo frontend, APIs, bases de datos y automatización.
 
-Actualmente busco continuar desarrollándome profesionalmente en el área de software, especialmente en aplicaciones web y sistemas de gestión.
+Mi trayectoria como docente de Informática y Música, junto con la gestión de un emprendimiento, me aporta una mirada interdisciplinaria para comprender procesos, organizar soluciones y pensar en quienes utilizan cada sistema.
 
-## Tecnologías
+---
 
-| Área | Tecnologías |
-|---|---|
-| Frontend | JavaScript, React, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, Python, Flask, C# |
-| Bases de datos | PostgreSQL, SQL Server, SQLite |
-| Herramientas | Git, GitHub, Visual Studio Code |
-| Otras competencias | APIs REST, UX/UI, pruebas de software |
+## Proyectos destacados
 
-## Proyectos
+### 🐾 Refugio Conectado
 
-### Refugio Conectado
-**Sistema web de gestión de refugios y adopciones**
+**Plataforma web full stack | Proyecto académico grupal**
 
-Proyecto académico desarrollado en equipo para gestionar mascotas, usuarios y solicitudes de adopción.
+Sistema para gestionar refugios de animales, mascotas, solicitudes de adopción, voluntariado y seguimiento post-adopción.
 
-Incluye un módulo de recomendación basado en reglas, diseñado para relacionar las preferencias de los adoptantes con las características de las mascotas disponibles.
+Incluye paneles administrativos, mapas interactivos, un asistente conversacional y herramientas de recomendación.
 
-**Tecnologías:** React, JavaScript y servicios backend.
+**Tecnologías:** `React` `Node.js` `Express` `MySQL` `REST API`
 
-[Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
+[Ver aplicación](https://refugio-conectado.vercel.app/) · [Repositorio GitHub](https://github.com/EstefaniaRoggero/Refugio-Conectado)
 
-### CuidApp
-**Sistema de gestión médica ambulatoria**
+---
 
-Aplicación web para administrar pacientes, profesionales, turnos, historias clínicas, estudios y facturación.
+### 🧠 Recomendador Inteligente de Mascotas
 
-El sistema utiliza una API REST desarrollada con Flask, un frontend en React y autenticación mediante JWT.
+**Automatización y algoritmos | Adaptación independiente de un proyecto académico grupal**
 
-**Tecnologías:** React, Python, Flask, SQLAlchemy y SQLite.
+Motor de recomendación desarrollado en Node.js que analiza perfiles de adoptantes y mascotas ficticias para determinar compatibilidades.
 
-### Kiosco Delatefa
-**Sistema de gestión comercial y punto de venta**
+- Evalúa restricciones y reglas de convivencia.
+- Calcula rankings de compatibilidad explicables.
+- Genera informes automáticos en Markdown y JSON.
+- Admite inteligencia artificial opcional y mantiene un mecanismo de respaldo basado en reglas.
+- Incluye pruebas automatizadas.
 
-Proyecto personal en desarrollo para administrar las operaciones de un comercio.
+**Tecnologías:** `Node.js` `JavaScript` `JSON` `Algoritmos` `Testing`
 
-Contempla gestión de productos, inventario, ventas, movimientos de caja y reportes. Se desarrolla mediante una arquitectura modular con frontend, API y base de datos relacional.
+[Ver repositorio y documentación](https://github.com/EstefaniaRoggero/Recomendador-Inteligente-de-mascotas)
 
-**Tecnologías:** React, Node.js, Express, Tailwind CSS y PostgreSQL.
+---
 
-**Estado:** en desarrollo.
+### 🛒 Kiosco Delatefa
 
-## Formación
+**Sistema de gestión comercial | Proyecto propio en desarrollo**
+
+Desarrollo de una solución de software para digitalizar las operaciones de un comercio real.
+
+El sistema contempla:
+
+- Catálogo de productos y precios.
+- Gestión de inventario y movimientos de stock.
+- Ventas de mostrador y control de caja.
+- Reportes comerciales.
+- Futura tienda online y fidelización de clientes.
+
+**Tecnologías:** `React` `Node.js` `Express` `PostgreSQL`
+
+[Conocer el proyecto en mi portfolio](https://roggero-estefania.vercel.app/)
+
+---
+
+## Otros proyectos
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| **CuidApp** | Sistema de gestión médica para consultorios y clínicas ambulatorias. | [Ver en portfolio](https://roggero-estefania.vercel.app/) |
+| **Clicursos** | Plataforma de recursos educativos interactivos, organizada por niveles, grados y áreas curriculares. En desarrollo. | [Visitar web](https://clicursos.github.io/) |
+
+---
+
+## Tecnologías con las que trabajo
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-323330?style=flat-square&logo=html5&logoColor=E34F26)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Backend y bases de datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-323330?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-323330?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-323330?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-323330?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-323330?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/Vercel-323330?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## Formación académica
 
 **Tecnicatura Superior en Desarrollo de Software**  
-Instituto Superior Villa del Rosario | 2024–2026
+Instituto Superior Villa del Rosario (ISVR) · Etapa final, 2026
 
 **Profesorado de Música**  
-Formación docente de nivel superior.
+Título superior docente
+
+---
+
+## Conectemos
+
+Me interesa seguir aprendiendo, colaborar en proyectos y desarrollar herramientas que generen soluciones útiles.
+
+<div align="center">
+
+### ¿Querés conocer mejor mi trabajo?
+
+**[Explorá mi portfolio profesional](https://roggero-estefania.vercel.app/)**
+
+[LinkedIn](https://www.linkedin.com/in/estefania-roggero-a612743a6/) · [GitHub](https://github.com/EstefaniaRoggero) · [Correo electrónico](mailto:roggeroestefania@gmail.com)
+
+<br>
+
+*Diseñar, desarrollar y mejorar soluciones a partir de necesidades reales.*
+
+</div>
+
 
 ## Contacto
 
