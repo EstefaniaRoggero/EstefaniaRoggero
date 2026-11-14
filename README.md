@@ -33,7 +33,7 @@ Mi trayectoria como docente de Informática y Música, junto con la gestión de 
 
 ## Proyectos destacados
 
-### 🐾 Refugio Conectado
+###  Refugio Conectado
 
 **Plataforma web full stack | Proyecto académico grupal**
 
@@ -47,7 +47,7 @@ Incluye paneles administrativos, mapas interactivos, un asistente conversacional
 
 ---
 
-### 🧠 Recomendador Inteligente de Mascotas
+###  Recomendador Inteligente de Mascotas
 
 **Automatización y algoritmos | Adaptación independiente de un proyecto académico grupal**
 
@@ -65,7 +65,7 @@ Motor de recomendación desarrollado en Node.js que analiza perfiles de adoptant
 
 ---
 
-### 🛒 Kiosco Delatefa
+###  Kiosco Delatefa
 
 **Sistema de gestión comercial | Proyecto propio en desarrollo**
 
